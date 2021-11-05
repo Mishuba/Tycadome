@@ -1,0 +1,157 @@
+[Sat Dec 14 01:51:11 UTC 2019][INFO] [Action] EE NewBook
+[Sat Dec 14 01:51:23 UTC 2019][INFO] [Action] E AutoChapterGroupAction - 0
+[Sat Dec 14 01:56:16 UTC 2019][INFO] [Action] E SaveBook - Save
+[Sat Dec 14 01:56:23 UTC 2019][INFO] [Action] E SaveBook - Save
+[Sat Dec 14 01:56:24 UTC 2019][INFO] Logger Terminated
+[Mon Oct 05 02:26:05 UTC 2020][INFO] [Action] EE OpenBook - The Lost Path (1)_KC.kcb
+[Mon Oct 05 02:26:30 UTC 2020][INFO] [Action] E ItemChanged - -1,968
+[Mon Oct 05 02:26:32 UTC 2020][INFO] [Action] E ItemChanged - -1,2
+[Mon Oct 05 02:28:19 UTC 2020][INFO] Logger Terminated
+[Mon Oct 05 02:32:04 UTC 2020][INFO] [Action] EE OpenBook - The Lost Path (1)_KC.kcb
+[Mon Oct 05 02:32:10 UTC 2020][INFO] [Action] E SaveBook - Save
+[Mon Oct 05 02:32:12 UTC 2020][INFO] Logger Terminated
+[Wed Oct 07 00:28:27 UTC 2020][INFO] [Action] EE OpenBook - The Lost Path (1)_KC.kcb
+[Wed Oct 07 01:57:43 UTC 2020][INFO] [Action] E SaveBook - Save
+[Wed Oct 07 01:57:45 UTC 2020][INFO] Logger Terminated
+[Wed Aug 25 00:45:14 UTC 2021][INFO] [Action] EE OpenBook
+[Wed Aug 25 00:45:18 UTC 2021][INFO] [Action] E ItemChanged - -1,2
+[Wed Aug 25 00:45:23 UTC 2021][INFO] [Action] E ItemChanged - -1,2
+[Wed Aug 25 00:45:26 UTC 2021][INFO] [Action] E ItemChanged - -1,2
+[Wed Aug 25 00:45:31 UTC 2021][INFO] [Action] E InsertGenericPageAction - 7,0
+[Wed Aug 25 00:45:34 UTC 2021][INFO] [Action] E ItemChanged - -1,201
+[Wed Aug 25 00:45:44 UTC 2021][INFO] [Action] E Copy - (r,209,1165)
+[Wed Aug 25 00:45:44 UTC 2021][INFO] [Action] E Copy - (r,209,1165)
+[Wed Aug 25 00:45:45 UTC 2021][INFO] [Action] E Copy - (r,209,1165)
+[Wed Aug 25 00:45:45 UTC 2021][INFO] [Action] E Copy - (r,209,1165)
+[Wed Aug 25 00:45:46 UTC 2021][INFO] [Action] E Copy - (r,209,1165)
+[Wed Aug 25 00:45:47 UTC 2021][INFO] [Action] E Copy - (r,209,1165)
+[Wed Aug 25 00:45:47 UTC 2021][INFO] [Action] E Copy - (r,209,1165)
+[Wed Aug 25 00:45:48 UTC 2021][INFO] [Action] E Copy - (r,209,1165)
+[Wed Aug 25 00:45:48 UTC 2021][INFO] [Action] E ItemChanged - -1,1
+[Wed Aug 25 00:45:48 UTC 2021][INFO] [Action] E ItemChanged - -1,1
+[Wed Aug 25 00:45:48 UTC 2021][INFO] [Action] E ItemChanged - -1,1
+[Wed Aug 25 00:45:52 UTC 2021][INFO] [Action] E Paste - (r,8,198),960
+[Wed Aug 25 00:45:55 UTC 2021][INFO] [Action] E ItemChanged - -1,967
+[Wed Aug 25 00:45:57 UTC 2021][INFO] [Action] E DeleteContent - (r,967,1931),B
+[Wed Aug 25 00:45:57 UTC 2021][INFO] [Action] E ItemChanged - -1,1
+[Wed Aug 25 00:45:59 UTC 2021][INFO] [Action] E DeleteContent - (r,1,964),B
+[Wed Aug 25 00:46:17 UTC 2021][INFO] [Action] E FixedFormAction - MCwwLFBST1AtTElTVDp7ImNvbXBvbmVudHMiOlt7Im5hbWUiOiJkZWRpY2F0aW9uX3RleHQiLCJ0eXBlIjoidGV4dCIsInZhbHVlIjoiU2hhbmlxdWUgTGVzaGF5IEJha2VyIn1dLCJwYWdlX3R5cGUiOiJkZWRpY2F0aW9uIn0K
+[Wed Aug 25 00:46:26 UTC 2021][INFO] [Action] E ItemChanged - -1,1
+[Wed Aug 25 00:46:29 UTC 2021][INFO] [Action] E DeleteContent - (r,1,21),B
+[Wed Aug 25 00:47:15 UTC 2021][INFO] [Action] E FixedFormAction - MCwwLFBST1AtTElTVDp7ImNvbXBvbmVudHMiOlt7Im5hbWUiOiJkZWRpY2F0aW9uX3RleHQiLCJ0eXBlIjoidGV4dCIsInZhbHVlIjoiU2hhbmlxdWUgTGVzaGF5IEJha2VyXG5cbkV2ZXJ5IHdvbWFuIHRoYXQgSSBjYW1lIGluIGNvbnRhY3Qgd2l0aCBhbmQgYmVjYW1lIGFuIGluc3BpcmlhdGlvbiBmb3IgYSBwb2VtLlxuXG5UaGUgcmVzdCBvZiBzb2NpZXR5LiJ9XSwicGFnZV90eXBlIjoiZGVkaWNhdGlvbiJ9Cg==
+[Wed Aug 25 00:47:23 UTC 2021][INFO] [Action] E InsertGenericPageAction - 7,0
+[Wed Aug 25 00:47:27 UTC 2021][INFO] [Action] E Paste - (r,132,322),960
+[Wed Aug 25 00:47:33 UTC 2021][INFO] [Action] E InsertTocAction - (1)
+[Wed Aug 25 00:47:34 UTC 2021][INFO] [Action] E ItemChanged - -1,125
+[Wed Aug 25 00:47:35 UTC 2021][INFO] [Action] EE MovePage - 3,1,11
+[Wed Aug 25 00:47:47 UTC 2021][INFO] [Action] E SaveBook - Save
+[Wed Aug 25 00:48:04 UTC 2021][INFO] [Action] E ItemChanged - -1,1
+[Wed Aug 25 00:48:04 UTC 2021][INFO] [Action] E ItemChanged - -1,125
+[Wed Aug 25 00:48:19 UTC 2021][INFO] [Action] E DeleteContent - (r,193,218),B
+[Wed Aug 25 00:48:20 UTC 2021][INFO] [Action] E DeleteContent - (c,192,2),B
+[Wed Aug 25 00:48:22 UTC 2021][INFO] [Action] E InsertTextContent - (c,192,1),[d]
+[Wed Aug 25 00:48:23 UTC 2021][INFO] [Action] E InsertTextContent - (c,192,2),[.]
+[Wed Aug 25 00:48:28 UTC 2021][INFO] [Action] E InsertTextContent - (c,209,1),[SPACE]
+[Wed Aug 25 00:48:28 UTC 2021][INFO] [Action] E InsertTextContent - (c,209,2),[m]
+[Wed Aug 25 00:48:28 UTC 2021][INFO] [Action] E InsertTextContent - (c,210,2),[y]
+[Wed Aug 25 00:48:33 UTC 2021][INFO] [Action] E InsertTextContent - (c,239,2),[SPACE]
+[Wed Aug 25 00:48:34 UTC 2021][INFO] [Action] E InsertTextContent - (c,240,2),[h]
+[Wed Aug 25 00:48:34 UTC 2021][INFO] [Action] E InsertTextContent - (c,241,2),[a]
+[Wed Aug 25 00:48:34 UTC 2021][INFO] [Action] E InsertTextContent - (c,242,2),[v]
+[Wed Aug 25 00:48:34 UTC 2021][INFO] [Action] E InsertTextContent - (c,243,2),[e]
+[Wed Aug 25 00:48:35 UTC 2021][INFO] [Action] E InsertTextContent - (c,244,2),[SPACE]
+[Wed Aug 25 00:48:51 UTC 2021][INFO] [Action] E InsertTextContent - (r,296,297),[i]
+[Wed Aug 25 00:48:52 UTC 2021][INFO] [Action] E InsertTextContent - (c,296,2),[s]
+[Wed Aug 25 00:48:52 UTC 2021][INFO] [Action] E InsertTextContent - (c,297,2),[SPACE]
+[Wed Aug 25 00:48:52 UTC 2021][INFO] [Action] E InsertTextContent - (c,298,2),[a]
+[Wed Aug 25 00:48:52 UTC 2021][INFO] [Action] E InsertTextContent - (c,299,2),[b]
+[Wed Aug 25 00:48:52 UTC 2021][INFO] [Action] E InsertTextContent - (c,300,2),[o]
+[Wed Aug 25 00:48:52 UTC 2021][INFO] [Action] E InsertTextContent - (c,301,2),[u]
+[Wed Aug 25 00:48:52 UTC 2021][INFO] [Action] E InsertTextContent - (c,302,2),[t]
+[Wed Aug 25 00:48:52 UTC 2021][INFO] [Action] E InsertTextContent - (c,303,2),[SPACE]
+[Wed Aug 25 00:48:53 UTC 2021][INFO] [Action] E DeleteContent - (c,304,2),B
+[Wed Aug 25 00:48:56 UTC 2021][INFO] [Action] E DeleteContent - (c,304,1),B
+[Wed Aug 25 00:48:56 UTC 2021][INFO] [Action] E DeleteContent - (c,303,1),B
+[Wed Aug 25 00:48:56 UTC 2021][INFO] [Action] E DeleteContent - (c,302,1),B
+[Wed Aug 25 00:48:56 UTC 2021][INFO] [Action] E DeleteContent - (c,301,1),B
+[Wed Aug 25 00:48:57 UTC 2021][INFO] [Action] E DeleteContent - (c,300,1),B
+[Wed Aug 25 00:48:57 UTC 2021][INFO] [Action] E DeleteContent - (c,299,1),B
+[Wed Aug 25 00:48:57 UTC 2021][INFO] [Action] E InsertTextContent - (c,298,1),[SPACE]
+[Wed Aug 25 00:48:58 UTC 2021][INFO] [Action] E InsertTextContent - (c,298,2),[o]
+[Wed Aug 25 00:48:58 UTC 2021][INFO] [Action] E DeleteContent - (c,299,2),B
+[Wed Aug 25 00:48:58 UTC 2021][INFO] [Action] E InsertTextContent - (c,299,1),[f]
+[Wed Aug 25 00:48:59 UTC 2021][INFO] [Action] E InsertTextContent - (c,299,2),[o]
+[Wed Aug 25 00:48:59 UTC 2021][INFO] [Action] E InsertTextContent - (c,300,2),[r]
+[Wed Aug 25 00:49:02 UTC 2021][INFO] [Action] E DeleteContent - (c,319,2),B
+[Wed Aug 25 00:49:03 UTC 2021][INFO] [Action] E DeleteContent - (c,319,1),B
+[Wed Aug 25 00:49:03 UTC 2021][INFO] [Action] E DeleteContent - (c,318,1),B
+[Wed Aug 25 00:49:03 UTC 2021][INFO] [Action] E DeleteContent - (c,317,1),B
+[Wed Aug 25 00:49:03 UTC 2021][INFO] [Action] E DeleteContent - (c,316,1),B
+[Wed Aug 25 00:49:03 UTC 2021][INFO] [Action] E DeleteContent - (c,315,1),B
+[Wed Aug 25 00:49:03 UTC 2021][INFO] [Action] E DeleteContent - (c,314,1),B
+[Wed Aug 25 00:49:04 UTC 2021][INFO] [Action] E DeleteContent - (c,313,1),B
+[Wed Aug 25 00:49:04 UTC 2021][INFO] [Action] E InsertTextContent - (c,312,1),[SPACE]
+[Wed Aug 25 00:49:15 UTC 2021][INFO] [Action] E InsertTextContent - (c,373,2),[;]
+[Wed Aug 25 00:49:26 UTC 2021][INFO] [Action] E InsertTextContent - (c,384,2),[SPACE]
+[Wed Aug 25 00:49:27 UTC 2021][INFO] [Action] E InsertTextContent - (c,385,2),[i]
+[Wed Aug 25 00:49:27 UTC 2021][INFO] [Action] E InsertTextContent - (c,386,2),[n]
+[Wed Aug 25 00:49:27 UTC 2021][INFO] [Action] E InsertTextContent - (c,387,2),[s]
+[Wed Aug 25 00:49:28 UTC 2021][INFO] [Action] E InsertTextContent - (c,388,2),[p]
+[Wed Aug 25 00:49:28 UTC 2021][INFO] [Action] E InsertTextContent - (c,389,2),[i]
+[Wed Aug 25 00:49:28 UTC 2021][INFO] [Action] E InsertTextContent - (c,390,2),[r]
+[Wed Aug 25 00:49:28 UTC 2021][INFO] [Action] E InsertTextContent - (c,391,2),[e]
+[Wed Aug 25 00:49:28 UTC 2021][INFO] [Action] E InsertTextContent - (c,392,2),[d]
+[Wed Aug 25 00:49:31 UTC 2021][INFO] [Action] E DeleteContent - (c,397,2),B
+[Wed Aug 25 00:49:31 UTC 2021][INFO] [Action] E DeleteContent - (c,397,1),B
+[Wed Aug 25 00:49:32 UTC 2021][INFO] [Action] E InsertTextContent - (c,396,1),[r]
+[Wed Aug 25 00:49:33 UTC 2021][INFO] [Action] E InsertTextContent - (c,396,2),[o]
+[Wed Aug 25 00:49:33 UTC 2021][INFO] [Action] E InsertTextContent - (c,397,2),[m]
+[Wed Aug 25 00:50:12 UTC 2021][INFO] [Action] E SaveBook - Save
+[Wed Aug 25 00:50:13 UTC 2021][INFO] [Action] E ItemChanged - -1,1430
+[Wed Aug 25 00:50:38 UTC 2021][INFO] [Action] E InsertTextContent - (c,1833,1),[u]
+[Wed Aug 25 00:50:38 UTC 2021][INFO] [Action] E InsertTextContent - (c,1833,2),[g]
+[Wed Aug 25 00:50:38 UTC 2021][INFO] [Action] E InsertTextContent - (c,1834,2),[h]
+[Wed Aug 25 00:50:58 UTC 2021][INFO] [Action] E SaveBook - Save
+[Wed Aug 25 00:50:59 UTC 2021][INFO] [Action] E ItemChanged - -1,2395
+[Wed Aug 25 00:51:21 UTC 2021][INFO] [Action] E ItemChanged - -1,2928
+[Wed Aug 25 00:51:41 UTC 2021][INFO] [Action] E ItemChanged - -1,3741
+[Wed Aug 25 00:52:19 UTC 2021][INFO] [Action] E ItemChanged - -1,5480
+[Wed Aug 25 00:52:44 UTC 2021][INFO] [Action] E ItemChanged - -1,6485
+[Wed Aug 25 00:53:10 UTC 2021][INFO] [Action] E ItemChanged - -1,7598
+[Wed Aug 25 00:53:47 UTC 2021][INFO] [Action] E DeleteContent - (c,9062,2),B
+[Wed Aug 25 00:53:48 UTC 2021][INFO] [Action] E InsertTextContent - (c,9062,1),[']
+[Wed Aug 25 00:54:00 UTC 2021][INFO] [Action] E ItemChanged - -1,9188
+[Wed Aug 25 00:54:46 UTC 2021][INFO] [Action] E ItemChanged - -1,10729
+[Wed Aug 25 00:54:57 UTC 2021][INFO] [Action] E ItemChanged - -1,11130
+[Wed Aug 25 00:55:03 UTC 2021][INFO] [Action] E ItemChanged - -1,11365
+[Wed Aug 25 00:55:54 UTC 2021][INFO] [Action] E AddTextContainer - (c,13895,2),0,0,0
+[Wed Aug 25 00:56:25 UTC 2021][INFO] [Action] E ItemChanged - -1,15515
+[Wed Aug 25 00:57:26 UTC 2021][INFO] [Action] E SaveBook - Save
+[Wed Aug 25 00:57:46 UTC 2021][INFO] [Action] E AddTextContainer - (c,18419,2),0,0,0
+[Wed Aug 25 00:58:21 UTC 2021][INFO] [Action] E ItemChanged - -1,19510
+[Wed Aug 25 00:58:25 UTC 2021][INFO] [Action] E AddTextContainer - (c,19534,2),0,0,0
+[Wed Aug 25 00:58:46 UTC 2021][INFO] [Action] E ItemChanged - -1,20488
+[Wed Aug 25 00:58:50 UTC 2021][INFO] [Action] E AddTextContainer - (c,20505,2),0,0,0
+[Wed Aug 25 00:59:29 UTC 2021][INFO] [Action] E ItemChanged - -1,21774
+[Wed Aug 25 00:59:33 UTC 2021][INFO] [Action] E AddTextContainer - (c,21784,2),0,0,0
+[Wed Aug 25 00:59:49 UTC 2021][INFO] [Action] E ItemChanged - -1,22374
+[Wed Aug 25 00:59:52 UTC 2021][INFO] [Action] E AddTextContainer - (c,22386,2),0,0,0
+[Wed Aug 25 01:00:16 UTC 2021][INFO] [Action] E ItemChanged - -1,23440
+[Wed Aug 25 01:00:19 UTC 2021][INFO] [Action] E AddTextContainer - (c,23454,2),0,0,0
+[Wed Aug 25 01:00:32 UTC 2021][INFO] [Action] E ItemChanged - -1,23979
+[Wed Aug 25 01:00:52 UTC 2021][INFO] [Action] E SaveBook - Save
+[Wed Aug 25 01:01:06 UTC 2021][INFO] [Action] E AddTextContainer - (c,23993,2),0,0,0
+[Wed Aug 25 01:01:23 UTC 2021][INFO] [Action] E ApplySemantics - (r,23994,23994),chapter_title
+[Wed Aug 25 01:01:24 UTC 2021][INFO] [Action] E ApplySemantics - (r,23996,23996),chapter_title
+[Wed Aug 25 01:01:24 UTC 2021][INFO] [Action] EFail ApplySemantics - 4
+[Wed Aug 25 01:01:26 UTC 2021][INFO] [Action] U ApplySemantics
+[Wed Aug 25 01:01:38 UTC 2021][INFO] [Action] E SaveBook - Save
+[Wed Aug 25 01:01:41 UTC 2021][INFO] [Action] E SaveBook - SaveAs
+[Wed Aug 25 01:02:17 UTC 2021][INFO] [Action] E SaveBook - Save
+[Wed Aug 25 01:02:20 UTC 2021][INFO] Logger Terminated
+[Wed Aug 25 01:21:23 UTC 2021][INFO] [Action] EE OpenBook - The Lost Path.kcb
+[Wed Aug 25 01:21:53 UTC 2021][INFO] [Action] E SaveBook - Save
+[Wed Aug 25 01:22:55 UTC 2021][INFO] [Action] EE PackageWorkspace
+[Wed Aug 25 01:28:02 UTC 2021][INFO] [Action] E SaveBook - Save
+[Wed Aug 25 01:28:06 UTC 2021][INFO] [Action] E SaveBook - Save
+[Wed Aug 25 01:28:07 UTC 2021][INFO] Logger Terminated
