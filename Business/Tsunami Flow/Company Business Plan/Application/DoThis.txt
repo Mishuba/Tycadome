@@ -1,0 +1,50 @@
+Help Me Eat App
+    ***theo holloway (the actual person who thought of this app idea.)
+
+1st create user profile
+    name:
+    age:
+    nationality:
+
+2nd create user fridge list
+
+3rd create user budget 
+    optional budget for the order that can be used at the end of the order.
+    optional budget for the day that can be used at the end of the order.
+
+4th eating experience
+
+3rd social environment
+
+
+app to decide what to eat
+    it chooses based off the 
+        food in your fridge
+        Based on mood
+        Based on diet
+        Budget
+        Eating Experiencd
+            At-Home
+            Takeout
+            Dine-in
+            Delivery
+        Social environment
+            By yourself
+            With Family
+            With friends
+            Co-workers
+            With Enemy
+            Dating
+            Business Meeting
+            Social Gathers
+                School
+                Events
+                    -Add more layers
+
+partnering with another
+update the grocerylist (smartstore/)
+            
+Provide feedback on how to improve physical health/fitness
+
+Feedback on how to improve mental focus/awareness
+
