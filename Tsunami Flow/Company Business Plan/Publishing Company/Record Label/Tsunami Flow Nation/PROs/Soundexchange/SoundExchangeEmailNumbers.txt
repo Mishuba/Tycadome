@@ -1,0 +1,32 @@
+Accounts
+        = Send completed Repertoire Submission Forms
+
+    - email
+        *accounts@soundexchange.com
+    - Phone Number
+        * 8009612091
+        * 2028038231
+
+Repertoire
+        =
+    - email 
+        * repertoire@soundexchange.com
+
+Hubert Maxwell 
+    - ID #: 1000162647
+
+Hubert Christopher Maxwell
+    - SXID: SX1100C6Y4
+    - Type: Performer
+    - Membership: 09/23/2015
+    - Mandate: 09/23/2015
+    - Mandate Territories: Worldwide
+    - AHRA Authorization: 01/23/2022
+
+Hubert Maxwell
+    - SXID: SX1100C6Y5
+    - Type: Rights Owner
+    - Membership: 09/23/2015
+    - Mandate: 09/23/2015
+    - Mandate Territories: Worldwide
+    - AHRA Authorization: 01/23/2022
